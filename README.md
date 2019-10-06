@@ -1,37 +1,18 @@
-# easy_raspi_python_one
+# 动手学树莓派_python篇
 
 #### 介绍
-动手学树莓派—python上篇
-
-#### 软件架构
-软件架构说明
-
-
-#### 安装教程
-
-1. xxxx
-2. xxxx
-3. xxxx
+系统和软件安装太费劲了吧，跑了个流水灯就吃灰了吧，
+来吧跟我一起来趟树莓派之旅
+本课程使用python快速玩转树莓派，不是单单的例程安装和演示；
+我们可以近距离看看树莓派。
 
 #### 使用说明
 
-1. xxxx
-2. xxxx
-3. xxxx
-
-#### 参与贡献
-
-1. Fork 本仓库
-2. 新建 Feat_xxx 分支
-3. 提交代码
-4. 新建 Pull Request
+1. 参考树莓派安装说明，使用tf卡读卡器烧写就行。
+2. 集成开发环境怎么搭建？想太多了，浏览器会用吧，就是他，其他我还不教来。
 
 
-#### 码云特技
+#### 捐助
 
-1. 使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2. 码云官方博客 [blog.gitee.com](https://blog.gitee.com)
-3. 你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解码云上的优秀开源项目
-4. [GVP](https://gitee.com/gvp) 全称是码云最有价值开源项目，是码云综合评定出的优秀开源项目
-5. 码云官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6. 码云封面人物是一档用来展示码云会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+如果您觉得我们的开源软件对你有所帮助，请扫下方二维码打赏我们一杯咖啡。 
+![输入图片说明](https://images.gitee.com/uploads/images/2019/1006/193543_4dbb6e7d_2311946.jpeg "打赏码_small.jpg")
